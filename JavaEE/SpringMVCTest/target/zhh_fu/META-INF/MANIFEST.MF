@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: zhh_fu Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ChrisLin3
+Implementation-Vendor-Id: com.ssm.web
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_144
+Main-Class: ${start-class}
+
